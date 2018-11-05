@@ -1,5 +1,5 @@
 # *Algorithms*
-### All possible algorithms implementation in Java :tada: :rocket: :metal: :octocat:
+### All possible algorithms implementation in Java & Python :tada: :rocket: :metal: :octocat:
 
 #### 1.SORTING
 * INSERTION SORT - (Recursive / Iterative)
